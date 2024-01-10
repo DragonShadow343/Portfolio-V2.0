@@ -642,6 +642,13 @@ header.scrolled .name {
 	margin-top: 1rem;
 }
 
+.subject-grade span{
+	position: absolute;
+	bottom: 3.5rem;
+	right: 0.5rem;
+	font-size: 16px;
+}
+
 .subject-container {
 	height: 100%;
 	position: relative;
